@@ -25,7 +25,6 @@ Good luck! We're excited to see your solutions and how you tackle each part of t
 3. Write the Terraform code to create an AWS EC2 instance and define the necessary resources according to the acceptance criteria.
 4. Provide clear comments in your code, or verbally explain the purpose and functionality of each resource or configuration block.
 5. Deploy your Terraform code to the Lean Tree Interviews AWS Account using credentials supplied during the interview.
-6. Commit and push your code changes to the remote branch.
 
 ## Part 2 - Terraform: Refactoring
 
