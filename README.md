@@ -42,7 +42,6 @@ Good luck! We're excited to see your solutions and how you tackle each part of t
 2. Modify the Terraform code to meet the necessary acceptance criteria.
 3. Provide clear comments in your code, or verbally explain the purpose and functionality of each resource or configuration block.
 4. Deploy your Terraform code to the Lean Tree Interviews AWS Account using credentials supplied during the interview.
-5. Commit and push your code changes to the remote branch.
 
 ## Part 3 - Shell Scripting: Recursive Text Search
 
@@ -65,4 +64,3 @@ Write a Shell Script that:
 3. Write a shell script that meets the acceptance criteria mentioned above.
 4. Test your script locally to ensure it is working as expected.
 5. Demonstrate the functionality of your script by searching for the text pattern "ec2" within all `.tf` files generated as part of the code written in Part 1 and Part 2.
-6. Commit and push your code changes to the remote branch.
