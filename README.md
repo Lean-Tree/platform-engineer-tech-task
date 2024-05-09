@@ -20,11 +20,9 @@ Good luck! We're excited to see your solutions and how you tackle each part of t
 
 ### Instructions
 
-1. Create a new feature branch in the Lean Tree GitHub repository to work on Part 1 of the code challenge.
-2. Checkout the newly created branch in your local development environment.
-3. Write the Terraform code to create an AWS EC2 instance and define the necessary resources according to the acceptance criteria.
-4. Provide clear comments in your code, or verbally explain the purpose and functionality of each resource or configuration block.
-5. Deploy your Terraform code to the Lean Tree Interviews AWS Account using credentials supplied during the interview.
+1. Write the Terraform code to create an AWS EC2 instance and define the necessary resources according to the acceptance criteria.
+2. Provide clear comments in your code, or verbally explain the purpose and functionality of each resource or configuration block.
+3. Deploy your Terraform code to the Lean Tree Interviews AWS Account using credentials supplied during the interview.
 
 ## Part 2 - Terraform: Refactoring
 
@@ -38,10 +36,9 @@ Good luck! We're excited to see your solutions and how you tackle each part of t
 
 ### Instructions
 
-1. Use the same feature branch to make the Part 2 amends.
-2. Modify the Terraform code to meet the necessary acceptance criteria.
-3. Provide clear comments in your code, or verbally explain the purpose and functionality of each resource or configuration block.
-4. Deploy your Terraform code to the Lean Tree Interviews AWS Account using credentials supplied during the interview.
+1. Modify the Terraform code to meet the necessary acceptance criteria.
+2. Provide clear comments in your code, or verbally explain the purpose and functionality of each resource or configuration block.
+3. Deploy your Terraform code to the Lean Tree Interviews AWS Account using credentials supplied during the interview.
 
 ## Part 3 - Shell Scripting: Recursive Text Search
 
@@ -59,8 +56,7 @@ Write a Shell Script that:
 
 ### Instructions
 
-1. Use the same feature branch to make the Part 3 amends.
-2. Choose a shell scripting language (e.g., Bash, Zsh) that you prefer to use for this task.
-3. Write a shell script that meets the acceptance criteria mentioned above.
-4. Test your script locally to ensure it is working as expected.
-5. Demonstrate the functionality of your script by searching for the text pattern "ec2" within all `.tf` files generated as part of the code written in Part 1 and Part 2.
+1. Choose a shell scripting language (e.g., Bash, Zsh) that you prefer to use for this task.
+2. Write a shell script that meets the acceptance criteria mentioned above.
+3. Test your script locally to ensure it is working as expected.
+4. Demonstrate the functionality of your script by searching for the text pattern "ec2" within all `.tf` files generated as part of the code written in Part 1 and Part 2.
